@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated assignment output
+act3/plots/
+
+# Local PDF-rendering scratch files
+tmp/
